@@ -2,19 +2,25 @@
 
 **Enterprise & Solution Architect**
 
-I design enterprise and solution architectures for complex corporate systems, with a focus on integration, content and document platforms, secure exchange, architecture repositories, and engineering enablement.
+I design enterprise and solution architectures for complex corporate systems, with a focus on architecture transformation, integration, content and document platforms, secure exchange, architecture repositories, and engineering enablement.
 
-My work combines architecture governance with hands-on technical design: from capability and application landscapes to integration boundaries, deployment constraints, data flows, security concerns, and implementation-ready architectural decisions.
+My work combines architecture governance with hands-on technical design: from motivation, capabilities and application landscapes to integration boundaries, deployment constraints, data flows, security concerns, migration planning, and implementation-ready architectural decisions.
 
 ## Architecture focus
 
-- Enterprise Architecture — TOGAF, ArchiMate, architecture repositories and modeling standards
+- Enterprise Architecture — TOGAF, ArchiMate, capability-based planning, baseline/target architecture and migration roadmaps
 - Solution Architecture — service decomposition, integration boundaries, quality attributes and deployment design
 - Enterprise Integration — APIs, messaging, filesystem exchange, store-and-forward patterns and anti-corruption layers
-- Architecture Governance — ADRs, traceability, technology standards and implementation review
+- Architecture Governance — ADRs, traceability, technology standards, organizational architecture and implementation review
 - Architecture Tooling — repository automation, developer tooling and repeatable engineering environments
 
-## Selected architecture & solution cases
+## Enterprise architecture case study
+
+| Project | Architecture focus |
+|---|---|
+| **[Cloud Development Platform Architecture](https://github.com/NesmachnyDN/cloud-development-platform-architecture)** | End-to-end enterprise architecture transformation case developed with TOGAF 10 concepts and ArchiMate. Covers stakeholders and motivation, capability planning, AS-IS/TO-BE value streams, baseline/target architecture, ABB/SBB decomposition, GAP analysis, organization design, risk/readiness assessment and migration roadmap. The original model contains 487 elements, 847 relationships and 20 ArchiMate views. |
+
+## Solution architecture & integration cases
 
 | Project | Architecture focus |
 |---|---|
@@ -30,10 +36,10 @@ My work combines architecture governance with hands-on technical design: from ca
 
 ## How I approach architecture
 
-I treat architecture as an engineering discipline rather than a diagramming activity. A useful architecture should make boundaries explicit, explain trade-offs, preserve traceability to requirements, constrain implementation where necessary, and remain testable against the qualities it is intended to provide.
+I treat architecture as an engineering discipline rather than a diagramming activity. A useful architecture should make boundaries explicit, explain trade-offs, preserve traceability to business drivers and requirements, constrain implementation where necessary, and provide a realistic path from baseline to target state.
 
-The repositories above are independent public portfolio implementations built from generalized architectural problems and synthetic data. They are intended to demonstrate architecture decisions and engineering practices without exposing proprietary systems, source code, credentials, internal endpoints, or organization-specific data.
+The repositories above are curated public portfolio artifacts. Depending on the case, they use generalized/synthetic data or sanitized independently authored architecture material. They are structured to demonstrate architecture decisions and engineering practices without exposing proprietary source code, credentials, internal endpoints, or organization-specific confidential data.
 
 ---
 
-**Core areas:** Enterprise Architecture · Solution Architecture · TOGAF · ArchiMate · Integration Architecture · DDD · Java · Spring Boot · Architecture Automation
+**Core areas:** Enterprise Architecture · Solution Architecture · TOGAF · ArchiMate · Capability-Based Planning · Integration Architecture · DDD · Java · Spring Boot · Architecture Automation
