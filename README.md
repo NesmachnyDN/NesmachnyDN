@@ -12,6 +12,7 @@ My work combines architecture governance with hands-on technical design: from mo
 - Solution Architecture — service decomposition, integration boundaries, quality attributes and deployment design
 - Enterprise Integration — APIs, messaging, filesystem exchange, store-and-forward patterns and anti-corruption layers
 - Architecture Governance — ADRs, traceability, technology standards, organizational architecture and implementation review
+- AI-Assisted Engineering — repository-governed context, bounded PRs, versioned prompts, independent review and explicit quality gates
 - Architecture Tooling — repository automation, developer tooling and repeatable engineering environments
 
 ## Enterprise architecture case study
@@ -31,6 +32,7 @@ My work combines architecture governance with hands-on technical design: from mo
 
 | Project | Engineering focus |
 |---|---|
+| **[AI-Assisted Engineering Template](https://github.com/NesmachnyDN/ai-assisted-engineering-template)** | Reusable architecture-governed workflow for software development with AI coding agents. Turns project context, architecture constraints, roadmaps, bounded PRs, versioned prompts, validation evidence, independent review and remediation into explicit repository artifacts instead of transient chat context. |
 | **[SILA Union Development Toolkit](https://github.com/NesmachnyDN/sila-union-development-toolkit)** | Vendor-neutral Java toolkit illustrating architecture-repository automation, glossary import, synthetic repository stubs and architecture reporting. |
 | **[Local Microservice Dev Stack](https://github.com/NesmachnyDN/local-microservice-dev-stack)** | Reproducible local infrastructure bootstrap for microservice development with PostgreSQL, Kafka and Apache Artemis while application services run and debug from the IDE. |
 
@@ -42,4 +44,4 @@ The repositories above are curated public portfolio artifacts. Depending on the 
 
 ---
 
-**Core areas:** Enterprise Architecture · Solution Architecture · TOGAF · ArchiMate · Capability-Based Planning · Integration Architecture · DDD · Java · Spring Boot · Architecture Automation
+**Core areas:** Enterprise Architecture · Solution Architecture · TOGAF · ArchiMate · Capability-Based Planning · Integration Architecture · Architecture Governance · AI-Assisted Engineering · DDD · Java · Spring Boot · Architecture Automation
