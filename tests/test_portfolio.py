@@ -1,6 +1,5 @@
 import importlib.util
 import json
-import tempfile
 import unittest
 from pathlib import Path
 
@@ -30,6 +29,8 @@ class PortfolioTests(unittest.TestCase):
         self.assertIn('<meta name="description"', rendered)
         self.assertIn('application/ld+json', rendered)
         self.assertIn('rel="canonical"', rendered)
+        self.assertIn(build_site.SITE_URL, rendered)
+        self.assertEqual(build_site.SITE_URL, "https://nesmachnydn.github.io/NesmachnyDN/")
 
     def test_duplicate_project_order_is_rejected(self):
         mutated = json.loads(json.dumps(self.data))
