@@ -2,6 +2,8 @@
 
 **Enterprise & Solution Architect**
 
+[Architecture portfolio](https://nesmachnydn.github.io/) · [LinkedIn](https://www.linkedin.com/in/dmitry-nesmachniy/)
+
 I design enterprise and solution architectures for complex corporate systems, with a focus on architecture transformation, integration, content and document platforms, secure exchange, architecture repositories, and engineering enablement.
 
 My work combines architecture governance with hands-on technical design: from motivation, capabilities and application landscapes to integration boundaries, deployment constraints, data flows, security concerns, migration planning, and implementation-ready architectural decisions.
@@ -45,3 +47,7 @@ The repositories above are curated public portfolio artifacts. Depending on the 
 ---
 
 **Core areas:** Enterprise Architecture · Solution Architecture · TOGAF · ArchiMate · Capability-Based Planning · Integration Architecture · Architecture Governance · AI-Assisted Engineering · DDD · Java · Spring Boot · Architecture Automation
+
+### Portfolio publishing
+
+The public website is generated from `portfolio.json` by `scripts/build_site.py`. Pull requests run the build and validation gates; merges to `main` publish the generated `_site` artifact through GitHub Pages. Generated files are not committed to the repository.
