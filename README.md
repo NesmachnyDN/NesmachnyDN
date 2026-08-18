@@ -2,7 +2,7 @@
 
 **Enterprise & Solution Architect**
 
-[Architecture portfolio](https://nesmachnydn.github.io/) · [LinkedIn](https://www.linkedin.com/in/dmitry-nesmachniy/)
+[Architecture portfolio](https://nesmachnydn.github.io/NesmachnyDN/) · [LinkedIn](https://www.linkedin.com/in/dmitry-nesmachniy/)
 
 I design enterprise and solution architectures for complex corporate systems, with a focus on architecture transformation, integration, content and document platforms, secure exchange, architecture repositories, and engineering enablement.
 

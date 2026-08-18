@@ -13,7 +13,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA_FILE = ROOT / "portfolio.json"
 STYLE_FILE = ROOT / "site" / "style.css"
 OUTPUT_DIR = ROOT / "_site"
-SITE_URL = "https://nesmachnydn.github.io/"
+SITE_URL = "https://nesmachnydn.github.io/NesmachnyDN/"
 
 
 def fail(message: str) -> None:
