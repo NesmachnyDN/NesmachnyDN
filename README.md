@@ -12,16 +12,17 @@ My work combines architecture governance with hands-on technical design: from mo
 
 - Enterprise Architecture — TOGAF, ArchiMate, capability-based planning, baseline/target architecture and migration roadmaps
 - Solution Architecture — service decomposition, integration boundaries, quality attributes and deployment design
-- Enterprise Integration — APIs, messaging, filesystem exchange, store-and-forward patterns and anti-corruption layers
+- Enterprise Integration — APIs, messaging, filesystem exchange, store-and-forward patterns, transition architectures and legacy modernization
 - Architecture Governance — ADRs, traceability, technology standards, architecture reviews, solution selection, trade studies and implementation review
 - AI-Assisted Engineering — repository-governed context, bounded PRs, versioned prompts, independent review and explicit quality gates
 - Architecture Tooling — repository automation, developer tooling and repeatable engineering environments
 
-## Enterprise architecture case study
+## Enterprise architecture & transformation cases
 
 | Project | Architecture focus |
 |---|---|
 | **[Cloud Development Platform Architecture](https://github.com/NesmachnyDN/cloud-development-platform-architecture)** | End-to-end enterprise architecture transformation case developed with TOGAF 10 concepts and ArchiMate. Covers stakeholders and motivation, capability planning, AS-IS/TO-BE value streams, baseline/target architecture, ABB/SBB decomposition, GAP analysis, organization design, risk/readiness assessment and migration roadmap. The original model contains 487 elements, 847 relationships and 20 ArchiMate views. |
+| **[Enterprise Integration Modernization](https://github.com/NesmachnyDN/enterprise-integration-migration-case)** | Legacy integration modernization case focused on the migration stream: AS-IS, transition and target architectures, controlled coexistence, migration archetypes, readiness gates, wave planning, pilot-first validation, cutover/rollback governance and a repeatable migration factory. |
 
 ## Architecture review, governance & technology decisions
 
@@ -53,4 +54,4 @@ The repositories above are curated public portfolio artifacts. Depending on the 
 
 ---
 
-**Core areas:** Enterprise Architecture · Solution Architecture · TOGAF · ArchiMate · Capability-Based Planning · Integration Architecture · Architecture Governance · Architecture Review · Decision Analysis · Technology Selection · AI-Assisted Engineering · DDD · Java · Spring Boot · Architecture Automation
+**Core areas:** Enterprise Architecture · Solution Architecture · TOGAF · ArchiMate · Capability-Based Planning · Integration Architecture · Legacy Modernization · Transition Architecture · Architecture Governance · Architecture Review · Decision Analysis · Technology Selection · AI-Assisted Engineering · DDD · Java · Spring Boot · Architecture Automation
