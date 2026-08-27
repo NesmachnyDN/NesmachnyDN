@@ -69,7 +69,7 @@ Portfolio labels distinguish **what can be inspected or demonstrated** from **wh
 
 I treat architecture as an engineering discipline rather than a diagramming activity. A useful architecture should make boundaries explicit, explain trade-offs, preserve traceability to business drivers and requirements, constrain implementation where necessary, and provide a realistic path from baseline to target state.
 
-The repositories above are curated public portfolio artifacts. Depending on the case, they use generalized/synthetic data or sanitized independently authored architecture material. They are structured to demonstrate architecture decisions and engineering practices without exposing proprietary source code, credentials, internal endpoints, or organization-specific confidential data.
+The repositories and cases above are curated portfolio evidence. Public repositories contain publication-safe artifacts; live-demo-only cases keep their production data private. Depending on the case, they use generalized/synthetic data or sanitized independently authored architecture material. They are structured to demonstrate architecture decisions and engineering practices without exposing proprietary source code, credentials, internal endpoints, or organization-specific confidential data.
 
 ---
 
