@@ -1,75 +1,162 @@
 # Dmitry Nesmachny
 
-**Enterprise & Solution Architect**
+**Principal Solution Architect · Enterprise Integration · Architecture Governance**
 
 [Русская версия](README.ru.md) · [Architecture portfolio](https://nesmachnydn.github.io/) · [LinkedIn](https://www.linkedin.com/in/dmitry-nesmachniy/)
 
-I design enterprise and solution architectures for complex corporate systems, with a focus on architecture transformation, integration, content and document platforms, secure exchange, architecture repositories, engineering enablement, and technology decision governance.
+I design implementable enterprise and solution architectures for complex corporate systems, connecting architecture governance with engineering delivery — from target-state design and integration boundaries to technology decisions, migration and implementation review.
 
-My work combines architecture governance with hands-on technical design: from motivation, capabilities and application landscapes to integration boundaries, deployment constraints, data flows, security concerns, technology selection, migration planning, and implementation-ready architectural decisions.
+![Solution Architecture](https://img.shields.io/badge/Solution%20Architecture-1f6feb?style=flat-square)
+![Enterprise Integration](https://img.shields.io/badge/Enterprise%20Integration-1f6feb?style=flat-square)
+![Architecture Governance](https://img.shields.io/badge/Architecture%20Governance-1f6feb?style=flat-square)
+![TOGAF / ArchiMate](https://img.shields.io/badge/TOGAF%20%2F%20ArchiMate-1f6feb?style=flat-square)
+![AI-Assisted Engineering](https://img.shields.io/badge/AI--Assisted%20Engineering-1f6feb?style=flat-square)
 
-## Architecture focus
+## Selected architecture cases
 
-- Enterprise Architecture — TOGAF, ArchiMate, capability-based planning, baseline/target architecture and migration roadmaps
-- Solution Architecture — service decomposition, integration boundaries, quality attributes and deployment design
-- Enterprise Integration — APIs, messaging, filesystem exchange, store-and-forward patterns, transition architectures and legacy modernization
-- Security Architecture — IAM/IdM integration, RBAC boundaries, access governance, Segregation of Duties and reconciliation
-- Architecture Governance — ADRs, traceability, technology standards, architecture reviews, solution selection, trade studies and implementation review
-- AI-Assisted Engineering — repository-governed context, bounded PRs, versioned prompts, independent review and explicit quality gates
-- Architecture Tooling — repository automation, developer tooling and repeatable engineering environments
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Evidence and provenance
+### [Enterprise Integration Modernization](https://github.com/NesmachnyDN/enterprise-integration-migration-case)
 
-Portfolio labels distinguish **what can be inspected or demonstrated** from **where the case comes from**.
+Legacy integration migration from baseline through transition to target architecture.
 
-- **Live demo on request** — a working system can be shown during an interview or professional discussion.
-- **Runnable public implementation** — the public repository contains an implementation that can be executed or validated locally.
-- **Public artifact** — public architecture, code, templates or other evidence can be inspected.
-- **Sanitized real-world case** — reconstructed from real professional work without copying corporate source artifacts.
-- **Practice-derived synthetic case** — independently rebuilt from recurring professional experience or a previously explored practical problem.
-- **Independent portfolio/course project** — created independently for demonstration or training.
+**Demonstrates**
+- Transition architecture and controlled coexistence
+- Migration waves, readiness gates and rollback
+- Traceability from architecture decisions to delivery
 
-## Enterprise architecture & transformation cases
+![Public artifact](https://img.shields.io/badge/Public%20artifact-2da44e?style=flat-square)
+![Sanitized real-world case](https://img.shields.io/badge/Sanitized%20real--world%20case-6e7781?style=flat-square)
 
-| Project | Architecture focus | Evidence |
+[Repository](https://github.com/NesmachnyDN/enterprise-integration-migration-case)
+
+</td>
+<td width="50%" valign="top">
+
+### [Cloud Development Platform Architecture](https://github.com/NesmachnyDN/cloud-development-platform-architecture)
+
+End-to-end enterprise architecture transformation developed with TOGAF 10 concepts and ArchiMate.
+
+**Demonstrates**
+- Baseline and target architecture
+- Capability and value-stream planning
+- ABB/SBB decomposition, gaps and migration roadmap
+
+![Public artifact](https://img.shields.io/badge/Public%20artifact-2da44e?style=flat-square)
+![Independent course project](https://img.shields.io/badge/Independent%20course%20project-6e7781?style=flat-square)
+
+[Repository](https://github.com/NesmachnyDN/cloud-development-platform-architecture)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [Federated Platform Architecture Review](https://github.com/NesmachnyDN/federated-platform-architecture-review)
+
+Architecture review for a distributed enterprise platform with governed autonomy.
+
+**Demonstrates**
+- Control-plane and execution-plane separation
+- Node lifecycle, versioning and reconciliation
+- Failure containment and operations boundaries
+
+![Public artifact](https://img.shields.io/badge/Public%20artifact-2da44e?style=flat-square)
+![Sanitized real-world case](https://img.shields.io/badge/Sanitized%20real--world%20case-6e7781?style=flat-square)
+
+[Repository](https://github.com/NesmachnyDN/federated-platform-architecture-review)
+
+</td>
+<td width="50%" valign="top">
+
+### [IT Solution Selection Framework](https://github.com/NesmachnyDN/it-solution-selection-framework)
+
+Vendor-neutral architecture trade-study framework for selecting enterprise IT solutions.
+
+**Demonstrates**
+- Non-compensatory mandatory gates
+- Evidence-backed evaluation and common-horizon TCO
+- Risk assessment, sensitivity analysis and explicit trade-offs
+
+![Public artifact](https://img.shields.io/badge/Public%20artifact-2da44e?style=flat-square)
+![Practice-derived synthetic case](https://img.shields.io/badge/Practice--derived%20synthetic%20case-6e7781?style=flat-square)
+
+[Repository](https://github.com/NesmachnyDN/it-solution-selection-framework)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [Centralized IAM Integration](https://github.com/NesmachnyDN/enterprise-platform-iam-integration-case)
+
+Centralized access-management architecture separating the IAM control plane from application runtime.
+
+**Demonstrates**
+- Directory-group-to-RBAC mapping
+- Governed provisioning and deprovisioning
+- SoD, reconciliation and controlled IAM failure behavior
+
+![Public artifact](https://img.shields.io/badge/Public%20artifact-2da44e?style=flat-square)
+![Sanitized real-world case](https://img.shields.io/badge/Sanitized%20real--world%20case-6e7781?style=flat-square)
+
+[Repository](https://github.com/NesmachnyDN/enterprise-platform-iam-integration-case)
+
+</td>
+<td width="50%" valign="top">
+
+### Career Operations Automation Platform
+
+Personal operational system on GitHub infrastructure for controlled career-search and professional-content workflows.
+
+**Demonstrates**
+- Scheduled and ad-hoc workflow orchestration
+- Canonical state, append-only history, deduplication and derived analytics
+- Encrypted static publication and explicit human approval before external actions
+
+![Live demo on request](https://img.shields.io/badge/Live%20demo%20on%20request-8250df?style=flat-square)
+![Personal operational system](https://img.shields.io/badge/Personal%20operational%20system-6e7781?style=flat-square)
+
+[Architecture portfolio](https://nesmachnydn.github.io/)
+
+</td>
+</tr>
+</table>
+
+## More portfolio cases
+
+| Project | Focus | Evidence |
 |---|---|---|
-| **[Cloud Development Platform Architecture](https://github.com/NesmachnyDN/cloud-development-platform-architecture)** | End-to-end enterprise architecture transformation case developed with TOGAF 10 concepts and ArchiMate. Covers stakeholders and motivation, capability planning, AS-IS/TO-BE value streams, baseline/target architecture, ABB/SBB decomposition, GAP analysis, organization design, risk/readiness assessment and migration roadmap. The original model contains 487 elements, 847 relationships and 20 ArchiMate views. | Public artifact · Independent course project |
-| **[Enterprise Integration Modernization](https://github.com/NesmachnyDN/enterprise-integration-migration-case)** | Legacy integration modernization case focused on the migration stream: AS-IS, transition and target architectures, controlled coexistence, migration archetypes, readiness gates, wave planning, pilot-first validation, cutover/rollback governance and a repeatable migration factory. | Public artifact · Sanitized real-world case |
+| **[Portable Secure Exchange Client](https://github.com/NesmachnyDN/portable-secure-exchange-client)** | Cross-platform client for controlled file exchange: integrity verification, detached-signature abstraction, local audit and self-contained packaging. | Runnable public implementation · Practice-derived synthetic case |
+| **[Offline Worklog Bridge](https://github.com/NesmachnyDN/offline-worklog-bridge)** | Offline-first integration bridge: store-and-forward synchronization, canonical model, reconciliation and idempotent publishing. | Runnable public implementation · Practice-derived synthetic case |
+| **[AI-Assisted Engineering Template](https://github.com/NesmachnyDN/ai-assisted-engineering-template)** | Repository-governed software-development workflow with coding agents, bounded PRs, versioned prompts, validation and independent review. | Public artifact · Independent portfolio project |
+| **[SILA Union Development Toolkit](https://github.com/NesmachnyDN/sila-union-development-toolkit)** | Vendor-neutral Java tooling for architecture-repository automation, glossary import, synthetic repository stubs and reporting. | Runnable public implementation · Practice-derived synthetic case |
+| **[Local Microservice Dev Stack](https://github.com/NesmachnyDN/local-microservice-dev-stack)** | Reproducible local infrastructure for microservice development with PostgreSQL, Kafka and Apache Artemis. | Runnable public implementation · Practice-derived synthetic case |
 
-## Security architecture & access governance
+## Architecture capabilities
 
-| Project | Architecture focus | Evidence |
-|---|---|---|
-| **[Centralized IAM Integration for an Enterprise Platform](https://github.com/NesmachnyDN/enterprise-platform-iam-integration-case)** | Centralized access-management architecture separating IAM control plane from application runtime. Demonstrates directory-group-to-RBAC mapping, workflow-governed provisioning/deprovisioning, TEST/PROD entitlement separation, Segregation of Duties, reconciliation and controlled IAM failure behavior. | Public artifact · Sanitized real-world case |
+- **Enterprise & Solution Architecture** — TOGAF, ArchiMate, capability-based planning, baseline/target architecture, quality attributes and deployment design
+- **Enterprise Integration** — APIs, messaging, filesystem exchange, store-and-forward patterns, transition architectures and legacy modernization
+- **Architecture Governance & Review** — ADRs, traceability, technology standards, trade studies, architecture reviews and implementation review
+- **Security & Access Architecture** — IAM/IdM integration, RBAC boundaries, access governance, Segregation of Duties and reconciliation
+- **AI-Assisted Engineering** — repository-governed context, bounded PRs, versioned prompts, independent review and explicit quality gates
 
-## Architecture review, governance & technology decisions
+## Evidence labels
 
-| Project | Architecture focus | Evidence |
-|---|---|---|
-| **[Federated Platform Architecture Review](https://github.com/NesmachnyDN/federated-platform-architecture-review)** | Architecture review case for a distributed enterprise platform. Demonstrates separation of control and execution planes, governed node profiles, lifecycle/version management, bounded autonomy, synchronization and reconciliation semantics, operations responsibility boundaries and failure containment. | Public artifact · Sanitized real-world case |
-| **[IT Solution Selection Framework](https://github.com/NesmachnyDN/it-solution-selection-framework)** | Vendor-neutral architecture trade-study framework for selecting enterprise IT solutions. Demonstrates non-compensatory mandatory gates, evidence-backed weighted evaluation, common-horizon TCO, initial/residual risk assessment, sensitivity analysis and an explicit recommendation with trade-offs and decision conditions. Includes a reusable Excel template and a fully synthetic worked example. | Public artifact · Practice-derived synthetic case |
+The portfolio separates **what can be inspected or demonstrated** from **where a case comes from**.
 
-## Solution architecture & integration cases
+**Demonstrability:** Live demo on request · Runnable public implementation · Public artifact  
+**Provenance:** Sanitized real-world case · Practice-derived synthetic case · Independent portfolio/course project · Personal operational system
 
-| Project | Architecture focus | Evidence |
-|---|---|---|
-| **[Portable Secure Exchange Client](https://github.com/NesmachnyDN/portable-secure-exchange-client)** | Cross-platform local client for controlled file exchange. Demonstrates filesystem-based integration boundaries, file-integrity verification, detached-signature abstraction, local audit, embedded persistence and self-contained Windows/Linux packaging. | Runnable public implementation · Practice-derived synthetic case |
-| **[Offline Worklog Bridge](https://github.com/NesmachnyDN/offline-worklog-bridge)** | Offline-first integration bridge for systems available only from mutually exclusive network contexts. Demonstrates store-and-forward synchronization, canonical data modeling, anti-corruption layers, reconciliation, proportional allocation, traceability and idempotent publishing. | Runnable public implementation · Practice-derived synthetic case |
-
-## Architecture, automation & engineering tooling
-
-| Project | Engineering / architecture focus | Evidence |
-|---|---|---|
-| **Career Operations Automation Platform** | Personal operations platform built on GitHub infrastructure for scheduled and ad-hoc vacancy/content discovery, AI-assisted evaluation, canonical opportunity state, append-only run history, deduplicated analytics and encrypted static publication. External applications, messages and publications remain behind an explicit human-approval boundary. Production career data stays private. | **Live demo on request** · Personal operational system |
-| **[AI-Assisted Engineering Template](https://github.com/NesmachnyDN/ai-assisted-engineering-template)** | Reusable architecture-governed workflow for software development with AI coding agents. Turns project context, architecture constraints, roadmaps, bounded PRs, versioned prompts, validation evidence, independent review and remediation into explicit repository artifacts instead of transient chat context. | Public artifact · Independent portfolio project |
-| **[SILA Union Development Toolkit](https://github.com/NesmachnyDN/sila-union-development-toolkit)** | Vendor-neutral Java toolkit illustrating architecture-repository automation, glossary import, synthetic repository stubs and architecture reporting. | Runnable public implementation · Practice-derived synthetic case |
-| **[Local Microservice Dev Stack](https://github.com/NesmachnyDN/local-microservice-dev-stack)** | Reproducible local infrastructure bootstrap for microservice development with PostgreSQL, Kafka and Apache Artemis while application services run and debug from the IDE. | Runnable public implementation · Practice-derived synthetic case |
+Public repositories contain publication-safe artifacts. Confidential enterprise work is represented only through independently authored, sanitized material; production career data remains private.
 
 ## How I approach architecture
 
 I treat architecture as an engineering discipline rather than a diagramming activity. A useful architecture should make boundaries explicit, explain trade-offs, preserve traceability to business drivers and requirements, constrain implementation where necessary, and provide a realistic path from baseline to target state.
-
-The repositories and cases above are curated portfolio evidence. Public repositories contain publication-safe artifacts; live-demo-only cases keep their production data private. Depending on the case, they use generalized/synthetic data or sanitized independently authored architecture material. They are structured to demonstrate architecture decisions and engineering practices without exposing proprietary source code, credentials, internal endpoints, or organization-specific confidential data.
 
 ---
 
