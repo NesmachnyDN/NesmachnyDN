@@ -111,7 +111,7 @@ Centralized access-management architecture separating the IAM control plane from
 
 ### Career Operations Automation Platform
 
-Personal operational system on GitHub infrastructure for controlled career-search and professional-content workflows.
+Personal operational system on GitHub infrastructure for controlled professional-content, portfolio and automation workflows.
 
 **Demonstrates**
 - Scheduled and ad-hoc workflow orchestration
@@ -131,6 +131,7 @@ Personal operational system on GitHub infrastructure for controlled career-searc
 
 | Project | Focus | Evidence |
 |---|---|---|
+| **[Grounded AI Policy Assistant](https://github.com/NesmachnyDN/cps-hackathon-summary)** | Verifiable policy Q&A with source evidence, local knowledge base, reversible pseudonymization, protected external-LLM boundary and document tone analysis. | Runnable public implementation · Time-boxed AI hackathon case |
 | **[Portable Secure Exchange Client](https://github.com/NesmachnyDN/portable-secure-exchange-client)** | Cross-platform client for controlled file exchange: integrity verification, detached-signature abstraction, local audit and self-contained packaging. | Runnable public implementation · Practice-derived synthetic case |
 | **[Offline Worklog Bridge](https://github.com/NesmachnyDN/offline-worklog-bridge)** | Offline-first integration bridge: store-and-forward synchronization, canonical model, reconciliation and idempotent publishing. | Runnable public implementation · Practice-derived synthetic case |
 | **[AI-Assisted Engineering Template](https://github.com/NesmachnyDN/ai-assisted-engineering-template)** | Repository-governed software-development workflow with coding agents, bounded PRs, versioned prompts, validation and independent review. | Public artifact · Independent portfolio project |
@@ -150,9 +151,9 @@ Personal operational system on GitHub infrastructure for controlled career-searc
 The portfolio separates **what can be inspected or demonstrated** from **where a case comes from**.
 
 **Demonstrability:** Live demo on request · Runnable public implementation · Public artifact  
-**Provenance:** Sanitized real-world case · Practice-derived synthetic case · Independent portfolio/course project · Personal operational system
+**Provenance:** Sanitized real-world case · Practice-derived synthetic case · Independent portfolio/course project · Time-boxed hackathon case · Personal operational system
 
-Public repositories contain publication-safe artifacts. Confidential enterprise work is represented only through independently authored, sanitized material; production career data remains private.
+Public repositories contain publication-safe artifacts. Confidential enterprise work is represented only through independently authored, sanitized material; private operational data remains private.
 
 ## How I approach architecture
 
