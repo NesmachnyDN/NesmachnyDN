@@ -111,7 +111,7 @@ Centralized access-management architecture separating the IAM control plane from
 
 ### Career Operations Automation Platform
 
-Personal operational system on GitHub infrastructure for controlled career-search and professional-content workflows.
+Personal operational system on GitHub infrastructure for controlled professional-content, portfolio and automation workflows.
 
 **Demonstrates**
 - Scheduled and ad-hoc workflow orchestration
@@ -153,7 +153,7 @@ The portfolio separates **what can be inspected or demonstrated** from **where a
 **Demonstrability:** Live demo on request · Runnable public implementation · Public artifact  
 **Provenance:** Sanitized real-world case · Practice-derived synthetic case · Independent portfolio/course project · Time-boxed hackathon case · Personal operational system
 
-Public repositories contain publication-safe artifacts. Confidential enterprise work is represented only through independently authored, sanitized material; production career data remains private.
+Public repositories contain publication-safe artifacts. Confidential enterprise work is represented only through independently authored, sanitized material; private operational data remains private.
 
 ## How I approach architecture
 
