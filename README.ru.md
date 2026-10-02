@@ -2,7 +2,7 @@
 
 **Principal Solution Architect · Корпоративная интеграция · Архитектурное управление**
 
-[English version](README.md) · [Архитектурное портфолио](https://nesmachnydn.github.io/) · [LinkedIn](https://www.linkedin.com/in/dmitry-nesmachniy/)
+[English version](README.md) · [Архитектурное портфолио](https://nesmachnydn.github.io/) · [LinkedIn](https://www.linkedin.com/in/dmitry-nesmachniy/) · [Сетка](https://set.ki/ZfqiDhZ)
 
 Проектирую реализуемую корпоративную архитектуру и архитектуру решений для сложных корпоративных систем, связывая архитектурное управление с инженерной реализацией — от целевой архитектуры и интеграционных границ до выбора технологий, миграции и контроля реализации.
 

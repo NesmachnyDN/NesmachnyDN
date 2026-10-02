@@ -2,7 +2,7 @@
 
 **Principal Solution Architect · Enterprise Integration · Architecture Governance**
 
-[Русская версия](README.ru.md) · [Architecture portfolio](https://nesmachnydn.github.io/) · [LinkedIn](https://www.linkedin.com/in/dmitry-nesmachniy/)
+[Русская версия](README.ru.md) · [Architecture portfolio](https://nesmachnydn.github.io/) · [LinkedIn](https://www.linkedin.com/in/dmitry-nesmachniy/) · [Setka](https://set.ki/ZfqiDhZ)
 
 I design implementable enterprise and solution architectures for complex corporate systems, connecting architecture governance with engineering delivery — from target-state design and integration boundaries to technology decisions, migration and implementation review.
 
