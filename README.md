@@ -1,16 +1,16 @@
 # Dmitry Nesmachny
 
-**Principal Solution Architect · Enterprise Integration · Architecture Governance**
+**Principal Solution Architect · Enterprise Integration · Applied AI for Architecture & Engineering**
 
-[Русская версия](README.ru.md) · [Architecture portfolio](https://nesmachnydn.github.io/) · [LinkedIn](https://www.linkedin.com/in/dmitry-nesmachniy/) · [Setka](https://set.ki/ZfqiDhZ)
+[Русская версия](README.ru.md) · [Architecture portfolio](https://nesmachnydn.github.io/) · [LinkedIn](https://www.linkedin.com/in/dmitry-nesmachniy/)
 
-I design implementable enterprise and solution architectures for complex corporate systems, connecting architecture governance with engineering delivery — from target-state design and integration boundaries to technology decisions, migration and implementation review.
+I design implementable enterprise and solution architectures for complex corporate systems, connecting architecture governance with engineering delivery — from target-state design and integration boundaries to technology decisions, migration and implementation review. I apply generative AI and coding agents to information and requirements analysis, decision preparation and review, documentation, code review and bounded engineering work, with explicit task constraints, independent validation and human accountability for the result.
 
 ![Solution Architecture](https://img.shields.io/badge/Solution%20Architecture-1f6feb?style=flat-square)
 ![Enterprise Integration](https://img.shields.io/badge/Enterprise%20Integration-1f6feb?style=flat-square)
 ![Architecture Governance](https://img.shields.io/badge/Architecture%20Governance-1f6feb?style=flat-square)
 ![TOGAF / ArchiMate](https://img.shields.io/badge/TOGAF%20%2F%20ArchiMate-1f6feb?style=flat-square)
-![AI-Assisted Engineering](https://img.shields.io/badge/AI--Assisted%20Engineering-1f6feb?style=flat-square)
+![Applied AI](https://img.shields.io/badge/Applied%20AI%20for%20Architecture%20%26%20Engineering-1f6feb?style=flat-square)
 
 ## Selected architecture cases
 
@@ -111,7 +111,7 @@ Centralized access-management architecture separating the IAM control plane from
 
 ### Career Operations Automation Platform
 
-Personal operational system on GitHub infrastructure for controlled professional-content, portfolio and automation workflows.
+Personal operational system on GitHub infrastructure for controlled career-search and professional-content workflows.
 
 **Demonstrates**
 - Scheduled and ad-hoc workflow orchestration
@@ -131,7 +131,6 @@ Personal operational system on GitHub infrastructure for controlled professional
 
 | Project | Focus | Evidence |
 |---|---|---|
-| **[Grounded AI Policy Assistant](https://github.com/NesmachnyDN/cps-hackathon-summary)** | Verifiable policy Q&A with source evidence, local knowledge base, reversible pseudonymization, protected external-LLM boundary and document tone analysis. | Runnable public implementation · Time-boxed AI hackathon case |
 | **[Portable Secure Exchange Client](https://github.com/NesmachnyDN/portable-secure-exchange-client)** | Cross-platform client for controlled file exchange: integrity verification, detached-signature abstraction, local audit and self-contained packaging. | Runnable public implementation · Practice-derived synthetic case |
 | **[Offline Worklog Bridge](https://github.com/NesmachnyDN/offline-worklog-bridge)** | Offline-first integration bridge: store-and-forward synchronization, canonical model, reconciliation and idempotent publishing. | Runnable public implementation · Practice-derived synthetic case |
 | **[AI-Assisted Engineering Template](https://github.com/NesmachnyDN/ai-assisted-engineering-template)** | Repository-governed software-development workflow with coding agents, bounded PRs, versioned prompts, validation and independent review. | Public artifact · Independent portfolio project |
@@ -144,16 +143,16 @@ Personal operational system on GitHub infrastructure for controlled professional
 - **Enterprise Integration** — APIs, messaging, filesystem exchange, store-and-forward patterns, transition architectures and legacy modernization
 - **Architecture Governance & Review** — ADRs, traceability, technology standards, trade studies, architecture reviews and implementation review
 - **Security & Access Architecture** — IAM/IdM integration, RBAC boundaries, access governance, Segregation of Duties and reconciliation
-- **AI-Assisted Engineering** — repository-governed context, bounded PRs, versioned prompts, independent review and explicit quality gates
+- **Applied AI for Architecture & Engineering** — information and requirements analysis, decision preparation and review, coding agents, context engineering, bounded engineering changes, independent review, targeted validation and human-in-the-loop quality gates
 
 ## Evidence labels
 
 The portfolio separates **what can be inspected or demonstrated** from **where a case comes from**.
 
 **Demonstrability:** Live demo on request · Runnable public implementation · Public artifact  
-**Provenance:** Sanitized real-world case · Practice-derived synthetic case · Independent portfolio/course project · Time-boxed hackathon case · Personal operational system
+**Provenance:** Sanitized real-world case · Practice-derived synthetic case · Independent portfolio/course project · Personal operational system
 
-Public repositories contain publication-safe artifacts. Confidential enterprise work is represented only through independently authored, sanitized material; private operational data remains private.
+Public repositories contain publication-safe artifacts. Confidential enterprise work is represented only through independently authored, sanitized material; production career data remains private.
 
 ## How I approach architecture
 
@@ -161,4 +160,4 @@ I treat architecture as an engineering discipline rather than a diagramming acti
 
 ---
 
-**Core areas:** Enterprise Architecture · Solution Architecture · TOGAF · ArchiMate · Capability-Based Planning · Integration Architecture · Security Architecture · IAM / IdM · RBAC · Legacy Modernization · Transition Architecture · Architecture Governance · Architecture Review · Decision Analysis · Technology Selection · AI-Assisted Engineering · DDD · Java · Spring Boot · Architecture Automation
+**Core areas:** Enterprise Architecture · Solution Architecture · TOGAF · ArchiMate · Capability-Based Planning · Integration Architecture · Security Architecture · IAM / IdM · RBAC · Legacy Modernization · Transition Architecture · Architecture Governance · Architecture Review · Decision Analysis · Technology Selection · Applied AI for Architecture & Engineering · DDD · Java · Spring Boot · Architecture Automation
