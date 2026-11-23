@@ -125,6 +125,26 @@ Personal operational system on GitHub infrastructure for controlled career-searc
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Obsidian Knowledge Search (OKS)](https://github.com/NesmachnyDN/obsidian-knowledge-search)
+
+Public pre-alpha project for local-first knowledge search in Obsidian notes and technical documents. No installable plugin is available yet.
+
+**Demonstrates**
+- Standalone-first plugin architecture and boundaries for optional advanced backends
+- Traceable source evidence, document metadata and index freshness
+- Spec-driven delivery, ADRs and reproducible synthetic benchmarks
+
+![Public artifact](https://img.shields.io/badge/Public%20artifact-2da44e?style=flat-square)
+![Independent portfolio project](https://img.shields.io/badge/Independent%20portfolio%20project-6e7781?style=flat-square)
+
+[Repository](https://github.com/NesmachnyDN/obsidian-knowledge-search)
+
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
 
 ## More portfolio cases
